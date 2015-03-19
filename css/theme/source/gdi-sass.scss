@@ -1,9 +1,11 @@
-/* Girl Develop It Ann Arbor */
+/* Getting Sassy With CSS - Workshop Settings*/
 
 @import "gdilight";
 
 .reveal {
   // word-wrap: break-word;
+
+  .hide { display: none; }
 
   .center-align{ text-align: center}
 

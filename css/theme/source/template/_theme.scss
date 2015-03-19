@@ -104,7 +104,6 @@ body {
 .pink{color:#F05B62 !important;}
 .red{color:#8B0036 !important;}
 .grey{color:#333333 !important;}
-.grey--light{color:#666 !important;}
 
 
 /*********************************************
@@ -232,15 +231,4 @@ body {
 	    vertical-align: middle;
 		}
 	}
-}
-
-/*********************************************
- * EVENT
- *********************************************/
-
-.event__title {
-	@extend .blue;
-	text-transform: uppercase !important;
-
-	small { @extend .grey--light; }
 }
